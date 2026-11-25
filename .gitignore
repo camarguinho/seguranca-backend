@@ -1,0 +1,7 @@
+labs/**/certs/
+certs/
+*.key
+*.p12
+*.jks
+*.srl
+*.csr
